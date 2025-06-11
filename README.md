@@ -1,2 +1,3 @@
-Castaway figma model using HTML language with CSS-ctyles
+Castaway
+Landing page, using HTML language with CSS-ctyles
 Thx for viewing
